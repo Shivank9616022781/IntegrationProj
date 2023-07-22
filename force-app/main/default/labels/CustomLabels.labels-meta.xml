@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Configuration_is_deactivated</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Configuration is deactivated</shortDescription>
+        <value>Configuration is not Active Please check with your Administrator</value>
+    </labels>
+    <labels>
+        <fullName>Permission_Denied</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Permission Denied</shortDescription>
+        <value>Permission Denied : Please Contact System administrator</value>
+    </labels>
+    <labels>
+        <fullName>Successfully_Synced_Data</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Successfully Synced Data</shortDescription>
+        <value>Successfully Data Synced</value>
+    </labels>
+    <labels>
+        <fullName>Unable_to_get_config</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Unable to get config</shortDescription>
+        <value>Unable to Connect Please check Configuration</value>
+    </labels>
+    <labels>
+        <fullName>User_is_Not_Eligible</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>User is Not Eligible</shortDescription>
+        <value>User is Not Eligible to Sync Data</value>
+    </labels>
+</CustomLabels>
